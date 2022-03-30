@@ -1,8 +1,8 @@
-# Live Link 
-##[Sabbir-Meazee.com/Crypto](https://sabbir-meazee-crypto.netlify.app/)
+# [Live Link](https://sabbir-meazee-crypto.netlify.app/)
+## [Sabbir-Meazee.com/Crypto](https://sabbir-meazee-crypto.netlify.app/)
 
 
-# Crypto Cafe Project Requirements
+## Crypto Cafe Project Requirements
 
 Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/en/api/documentation) cryptocurrency API. Visitors can browse through the top 50 Crypto Currencies. Visitors can see details of a coin by clicking on the coin card.
 
